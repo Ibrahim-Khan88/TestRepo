@@ -1,1 +1,17 @@
-This is first commit
+app/Http/Controllers/Frontend/CartController.php
+customer@example.com
+admin@britishmarketplace.co.uk
+Bmp4321
+
+bmmustasimbillah7@gmail.com
+Bmp4321
+
+SHEGLAM Jelly Wow Blush & Dewy Highlighter Stick-BON VOYAGE
+
+Today's update:-
+1. WishList problem solve
+2. Profile picture resize solve
+3. Understand 50% problem.
+
+
+SELECT * FROM `products` WHERE title = 'Galaxy Z Fold3 5G'
